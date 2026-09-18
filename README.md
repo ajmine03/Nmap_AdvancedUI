@@ -19,7 +19,7 @@ A modern, interactive, and fully responsive **Terminal User Interface (TUI)** wr
 
 
 
----
+--
 
 ## ⚡ Features
 
